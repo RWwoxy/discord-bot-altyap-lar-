@@ -1,2 +1,3 @@
-# discord-bot-altyap-lar-
+# discord-bot-altyap-
+-
 dc bot altyapıları bedava
